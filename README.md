@@ -14,6 +14,8 @@ L'historique des commits est lisible grâce à :
   - Pas besoin de faire plusieurs branches vu qu'on travail à deux.
   - Le multi-branche serait plus pertinent pour des projets plus grands, avec plus de contributeurs, ou demandant que certaines features soient développées séparément pendant plus de temps avant d'être merge.
   - Pas de merge de branche à gérer, uniquement des merge de modifs de la branche principale.
+- Noms de commit évocatifs et descriptifs.
+- Chaque commit est représentatif d'un objectif de changement spécifique, et non éparpillé entre plusieurs features sans rapport.
 
 ## LFS
 Git LFS n'est pas utilisé pour des raisons évidentes, on a rien à y stocker même si Github met des alertes dans la console.
